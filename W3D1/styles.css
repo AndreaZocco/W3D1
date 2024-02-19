@@ -1,0 +1,124 @@
+@font-face {
+    font-family: 'Feather';
+    src: url(./assets/feather.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  body {
+    font-family: 'Feather', sans-serif;
+  }
+  
+  .jumbotron {
+    color: white; 
+  }
+
+  .benefits-section {
+    color: #757575; 
+  }
+
+  .benefits-section h3 {
+    font-size: 1rem; 
+    font-weight: bold; 
+    color: #000000; 
+    margin-bottom: 0; 
+  }
+  
+  
+  .benefits-section p {
+    color: #757575; 
+  }
+  
+
+  .benefits-section i {
+    color: #FFD700; 
+    margin-right: 15px; 
+  }
+
+  .btn-primary {
+    background-color: #00D363; 
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+  }
+
+  .btn-secondary {
+    background-color: #F3F3F3; 
+    color: black; 
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+  }
+
+  .hero-background {
+    background-color: #7550FE; 
+  }
+
+  .footer-top-spacing {
+    margin-top: 4rem;
+  }
+
+  .section-heading {
+    font-size: 1.5rem;
+    text-align: left;
+    margin-bottom: 1rem;
+  }
+
+  .section-spacing {
+    margin-top: 6rem; 
+    margin-bottom: 6rem; 
+  }
+  
+  .nav-link-color {
+color: black;
+  }
+  
+  .footer-background {
+    background-color: #F5F4F8; 
+  }
+
+  .footer-copyright{
+    color: black;
+  }
+
+  .card-footer {
+    background: #F5F4F8; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  .course-meta .rating .stars {
+    color: #FFD700; 
+  }
+  
+  .course-meta .rating .score {
+    color: #757575; 
+    margin-left: 5px;
+  }
+  
+  .course-meta .price .current-price {
+    color: #000; 
+    font-weight: bold;
+  }
+  
+  .course-meta .price .original-price {
+    color: #757575; 
+    text-decoration: line-through; 
+  }
+  
+  .instructor {
+    display: flex;
+    align-items: center;
+  }
+  
+  .instructor .instructor-img {
+    width: 30px; 
+    height: 30px; 
+    border-radius: 50%;
+    margin-right: 5px;
+  }
+  
+  .instructor .instructor-name {
+    color: #000;
+  }
+  
